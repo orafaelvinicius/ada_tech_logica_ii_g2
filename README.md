@@ -23,6 +23,6 @@ Nosso objetivo foi desenvolver um sistema de cadastro de pessoas com diversas fu
 
 Utilizamos exclusão lógica para desativar usuários, e ao inserir novos cadastros, verificamos se já existe um cadastro desativado com as mesmas informações. Optamos pelo uso de dicionários e formato JSON para facilitar o armazenamento dos dados. Sempre lembramos de imprimir novamente o menu principal após cada operação e começamos o programa com uma lista predefinida de cinco usuários.
 
-Para obter informações mais detalhadas sobre o projeto, confira os detalhes [aqui]()!
+Para obter informações mais detalhadas sobre o projeto, confira os detalhes [aqui](https://github.com/orafaelvinicius/ada_tech_logica_ii_g2/blob/main/Projeto%20Final%20-%20Logica%20de%20Programacao%20II.ipynb)!
 
 
