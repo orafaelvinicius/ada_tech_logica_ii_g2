@@ -23,4 +23,6 @@ Nosso objetivo foi desenvolver um sistema de cadastro de pessoas com diversas fu
 
 Utilizamos exclusão lógica para desativar usuários, e ao inserir novos cadastros, verificamos se já existe um cadastro desativado com as mesmas informações. Optamos pelo uso de dicionários e formato JSON para facilitar o armazenamento dos dados. Sempre lembramos de imprimir novamente o menu principal após cada operação e começamos o programa com uma lista predefinida de cinco usuários.
 
+Para obter informações mais detalhadas sobre o projeto, confira os detalhes [aqui]()!
+
 
