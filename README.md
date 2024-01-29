@@ -25,4 +25,5 @@ Utilizamos exclusão lógica para desativar usuários, e ao inserir novos cadast
 
 Para obter informações mais detalhadas sobre o projeto, confira os detalhes [aqui](https://github.com/orafaelvinicius/ada_tech_logica_ii_g2/blob/main/Projeto%20Final%20-%20Logica%20de%20Programacao%20II.ipynb)!
 
+<sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
 
